@@ -1,0 +1,641 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Task",
+				"Task_taskId"
+			],
+			[
+				"Hint",
+				"Hint_hintId"
+			],
+			[
+				"Acc",
+				"Account_has_Hint"
+			],
+			[
+				"Lesson",
+				"Lesson_lessonId"
+			],
+			[
+				"user",
+				"userClass"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"sessio",
+				"session_idAccount"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"edit",
+				"editor"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"As",
+				"aside"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"border-tp",
+				"border-top-style"
+			],
+			[
+				"border-bot",
+				"border-bottom-style"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"Fon",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"s",
+				"flex-start"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"e",
+				"encrypt"
+			],
+			[
+				"texa",
+				"text-align"
+			],
+			[
+				"a",
+				"auto"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "module1_lesson1.php",
+			"settings":
+			{
+				"buffer_size": 5626,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "php/getHint.php",
+			"settings":
+			{
+				"buffer_size": 1066,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "php/userClass.php",
+			"settings":
+			{
+				"buffer_size": 11596,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "php/session.php",
+			"settings":
+			{
+				"buffer_size": 357,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/Website",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/php"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/php/updateCoinCounter.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/php/session.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/css/stylehome.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/module1_lesson1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/css/login.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/php/logout.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/js/testscript.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/php/login_process.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/js/ajax_script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/php/getHint.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/php/config.php",
+		"/Users/Ben/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Ben/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/websiteProject.sublime-project",
+		"/Users/Ben/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Ben/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/php/userClass.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/css/stylehomenav.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/css/stylehometoggle.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/php/db_connection.php",
+		"/Users/Ben/Dropbox/CS/Year 2/Semester 2/ICP 2302/Testing/RestfulAPI Test/package.json",
+		"/Users/Ben/Dropbox/CS/Year 2/Semester 1/ICP 2025/Submission/Enemy/EnemyAI1.cs",
+		"/Users/Ben/Downloads/Bloom.svg",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/php/getuser.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/untitled.html",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/login.php",
+		"/Users/Ben/Desktop/untitled.cpp",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/php/connect.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/userClass.php",
+		"/Users/Ben/Desktop/untitled.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/getuser.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/session.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/home.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/userDetails.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/test.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/db_connection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Website/connect.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/login.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/index.php",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/js/skulpt_runner.js",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/js/ace_editior_config.js",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/login.php",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/test2.html",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/css/login.css",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/login.html",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/css/untitled.css",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/css/stylehometoggle.css",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/css/stylehomenav.css",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/css/stylehome.css",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/home.html",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/css/untitled.html",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/test.html",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/css/stylecontent.css",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/2-Project/Website/css/stylecontent",
+		"/Users/Ben/Downloads/test.py",
+		"/Users/Ben/Downloads/10.1007%2Fs40037-013-0107-7.bib",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment2/octave/lenna/test.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/Project/css/stylehometoggle.css",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/Project/css/stylehomenav.css",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/Project/css/stylehome.css",
+		"/Users/Ben/Dropbox/CS/Year 3/Dissertation/Project/home.html",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Labs/Lab-04/bin/Debug/output.dat",
+		"/Users/Ben/Downloads/touch-swipe/demo2.html",
+		"/Users/Ben/Desktop/eeu47d-files/js/openNav.js",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_3.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_1b.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_11k.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_11j.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_11i.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_11h.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_11g.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_11f.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_11e.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_11d.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_11c.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_11b.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_11a.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_10l.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_10k.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_10j.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_10f.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_10i.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_10e.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_10d.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_10b.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_10a.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/Cell_Colony.txt",
+		"/Users/Ben/Dropbox/CS/Year 3/Semester 1/ICP 3038/Assignments/Assignment1/img/test_image_7g.pgm"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getAccount",
+			"userDetail",
+			"@",
+			"register-form",
+			"getAccountId",
+			"stmt",
+			"IdAccount",
+			"lesson",
+			"task",
+			"detail",
+			"hintcost",
+			"insert",
+			"adviceButton",
+			"advice",
+			"button",
+			"insert",
+			"btn",
+			"nav",
+			"BASE_URL",
+			"base",
+			"coins",
+			"userCl",
+			"ace",
+			"name",
+			"field",
+			"email",
+			"user",
+			"uid",
+			"idAccount",
+			"signup",
+			"mydb",
+			"user",
+			"article",
+			"main",
+			"h1",
+			"aside",
+			"style",
+			"nav",
+			"open",
+			"container",
+			"wrapper",
+			"display",
+			"block",
+			"line",
+			"home",
+			"open",
+			"toggle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"accountId"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "module1_lesson1.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								338
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "php/getHint.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								799,
+								799
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "php/userClass.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1213,
+								1213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "php/session.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "websiteProject.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}
